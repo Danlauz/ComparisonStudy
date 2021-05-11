@@ -1,2 +1,2 @@
 # ComparisonStudy
-Program to perform exemple 1
+Matlab programs to perform exemple 1
