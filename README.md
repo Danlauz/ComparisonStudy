@@ -2,19 +2,33 @@
 Matlab programs to perform exemple 3.1.
 
 Workplace.m : Mainscript to execute the calibration method.
+
 Figures.m : displays figures present in the paper.
+
 fftma.m : function to perform fast Fourier transform moving average simulations (FFTMA)
+
 TourBandSpec.m : function to perform spectral turning band simulations (STBM)
+
 LUsim.m : function to perform Choleski decomposition simulations (LU)
+
 TourBandSpecOpt.m : function to perform sequential spectral turning band methods (S-STBM)
+
 GDOpt.m :: function to perform gradual deformation (GD)
+
 ISROpt.m : function to perform Iterative spatial resampling (ISR)
+
 PhaseAnnealing2D.m : function to perform phase annealing in 2D only (PA) 
+
 fftmaSA.m : function to perform FFTMA simulated annealing (FFTMA-SA)
+
 VanCorput.m : generate quasi-random sequences (for S-STBM)
+
 DensSpec1Ddl.m : Compute the 1D spectral density of convariance function (for S-STBM)
+
 covardm.m : compute covariance function
+
 KrigingS.m : performs simple kriging
+
 postcond.m : performs post-conditioning by kriging.
 
 The other examples are easily realized by changing the objective function.
