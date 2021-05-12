@@ -31,9 +31,15 @@ KrigingS.m : performs simple kriging
 
 postcond.m : performs post-conditioning by kriging.
 
+
+
 The other examples are easily realized by changing the objective function.
 
+
+
 Both hydrogeological examples (section 3.3) used the Matlab Reservoir Simulation Toolbox (MRST) of the Computational Geosciences group in the Department of Mathematics and Cybernetics at SINTEF Digita. MRST is a free open-source software for reservoir modelling and simulation.  Link : https://www.sintef.no/projectweb/mrst/
+
+
 
 Further details are found, for each variogram-based inversion method, in their original manuscript, namely:
 
