@@ -3,6 +3,7 @@
 Simply run the script 'WorkplaceSim.m'. The directives are mentioned in the script.
 The variable named type holds the number of the case under study.
 
+WARNING : Both hydrogeological examples (cases 3 and 4) used the Matlab Reservoir Simulation Toolbox (MRST) of the Computational Geosciences group in the Department of Mathematics and Cybernetics at SINTEF Digita. MRST is a free open-source software for reservoir modelling and simulation. One needs to download it using the link: https://www.sintef.no/projectweb/mrst/ . The toolbox is not provided in this folder.
 
 
 Folder Description
@@ -42,9 +43,6 @@ where X is the number of the case. The .mat file contains all the information ne
 4- The folder named 'Reference' contains the reference function to generete the five cases
 
 5- The folder named 'Results' keeps the results for each case.
-    
-
-Both hydrogeological examples (cases 3 and 4) used the Matlab Reservoir Simulation Toolbox (MRST) of the Computational Geosciences group in the Department of Mathematics and Cybernetics at SINTEF Digita. MRST is a free open-source software for reservoir modelling and simulation.  Link : https://www.sintef.no/projectweb/mrst/
 
    Further details are found, for each variogram-based inversion method, in their original manuscript, namely:
 
